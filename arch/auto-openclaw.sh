@@ -96,3 +96,4 @@ echo -e "启动方式："
 echo -e "1. 终端模式: ${GREEN}openclaw tui${NC}"
 echo -e "2. 网页模式: ${GREEN}openclaw dashboard${NC}"
 echo -e "注意: 如果遇到连接问题，请确保 Ollama 正在运行 (ollama serve)"
+
